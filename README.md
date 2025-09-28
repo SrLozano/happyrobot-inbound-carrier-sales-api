@@ -42,7 +42,7 @@ GET /verify_carrier
 ```json
 {
   "content": {
-    "is_eligible": True,
+    "is_eligible": "True",
     "mc_number": "123456",
     "carrier_name": "Rapid Trans Inc.",
     "datail": "Mock verification successful: Carrier is eligible."
